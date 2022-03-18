@@ -3,4 +3,9 @@
 - 💞️ I’m working on making my website pretty cool
 - 😮 Your mom!
 
+My toolbox:
+[Animista (Awesome css animations!)](https://animista.net/)
+[Gitpod](https://gitpod.io)
+[Stackoverflow for copy and pasthing code](https://stackoverflow.com/)
+
 Thanks for visiting!
