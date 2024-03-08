@@ -1,4 +1,4 @@
-![pikapower9080's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikapower9080&show_icons=true&theme=transparent&hide_rank=true)
+![pikapower9080's Streak stats]([https://streak-stats.demolab.com/?user=pikapower9080)
 
 - 👋 Hi, I’m @pikapower9080
 - 👀 I’m interested in web game development & making useful tools.
