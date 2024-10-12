@@ -1,6 +1,6 @@
 **I create...**
 - Tools in React
-- Smaller projects and Userscripts with Vanilla JS
+- 3D games with Roblox
 - CLI tools with Node.js and Bun
 - Games with Godot
 
