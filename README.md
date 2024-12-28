@@ -1,8 +1,8 @@
 **I create...**
-- Tools in React
+- Web projects with React
 - 3D games with Roblox
-- CLI tools with Node.js and Bun
-- Games with Godot
+- CLI scripts with Bun
+- 2D and interface games with Godot and JavaScript
 
 **I enjoy...**
 - Self hosting
@@ -10,8 +10,10 @@
 - Keeping up to date with projects I use
 
 **I use...**
-- Visual Studio Code
-- MacOS
+- MacOS (M4 Mac Mini)
 - Arc Browser
 - Obsidian
 - NetNewsWire
+- Ghostty
+- Jellyfin
+- Thunderbird
